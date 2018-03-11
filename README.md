@@ -1,4 +1,4 @@
-# raod-intersections
+# road-intersections
 
 Data for the project (Currently San Jose City data)
 Create a data directory inside road-intersections
