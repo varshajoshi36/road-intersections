@@ -14,7 +14,7 @@ run show_images.ipynb
 ### Packages/Software Requirements:
 
 Following softwares and packages are required to run the project.  
-Python packages can be installed using command: pip install <package>  
+Python packages can be installed using command: ```pip install <package>```  
 
 jupyter-notebook  
 python - pandas  
